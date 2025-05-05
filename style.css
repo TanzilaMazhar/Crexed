@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    height: 30vh;
+    width: 20vh;
+    box-sizing: border-box;
+    background-color: rgb(27, 27, 27);
+}
+
+form {
+    margin-top: 50px;
+    height: 60%;
+    width: 40%;
+    background-color: rgb(27, 27, 27);
+    padding: 30px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 10px;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(85, 83, 83);
+    color: white;
+}
+
+input placeholder {
+    color: white;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    height: 40px;
+    width: 280px;
+    background-color: rgb(85, 83, 83);
+    color: white;
+    cursor: pointer;
+}
+
+.sign-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.google-logo {
+    width: 20px;
+    height: 20px;
+    color: black;
+    margin-right: 10px;
+}
